@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.listcreative.spring.boot.admin.SpringBootAdminApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.464 sec - in com.listcreative.spring.boot.admin.SpringBootAdminApplicationTests
